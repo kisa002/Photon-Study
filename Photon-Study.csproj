@@ -464,8 +464,9 @@
     <Compile Include="Assets\PhotonChatApi\ChatState.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatUserStatus.cs" />
     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
-    <Compile Include="Assets\Study\Scripts\StudyLauncher.cs" />
-    <Compile Include="Assets\Study\Scripts\StudyPlayerNameInputField.cs" />
+    <Compile Include="Assets\Study\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Study\Scripts\Launcher.cs" />
+    <Compile Include="Assets\Study\Scripts\PlayerNameInputField.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Photon Unity Networking\Demos\DemoBoxes\Resources\eurof_tt.txt" />
