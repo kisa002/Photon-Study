@@ -466,6 +466,8 @@
     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
     <Compile Include="Assets\Study\Scripts\GameManager.cs" />
     <Compile Include="Assets\Study\Scripts\Launcher.cs" />
+    <Compile Include="Assets\Study\Scripts\PlayerAnimatorManager.cs" />
+    <Compile Include="Assets\Study\Scripts\PlayerManager.cs" />
     <Compile Include="Assets\Study\Scripts\PlayerNameInputField.cs" />
   </ItemGroup>
   <ItemGroup>
